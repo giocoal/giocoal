@@ -37,7 +37,6 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Beautiful_Soup-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI/ML-seaborn-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
@@ -47,10 +46,10 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
   
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
