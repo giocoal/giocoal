@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/giocoal/giocoal/blob/main/readme_header.jpg" width="100">
+  <img src="https://github.com/giocoal/giocoal/blob/main/readme_header.jpg" width="150">
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Welcome to <i><b>Giorgio Carbone</b></i>'s GitHub Profile
