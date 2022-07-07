@@ -1,8 +1,7 @@
 
-<img src="https://github.com/giocoal/giocoal/blob/main/readme_header.jpg" width="70">
+<img src="https://github.com/giocoal/giocoal/blob/main/readme_header.jpg" width="100" class="center">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-<h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Giorgio Carbone</b></i>'s GitHub Profile</h2>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Welcome to <i><b>Giorgio Carbone</b></i>'s GitHub Profile
 
 - 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
 <!--
