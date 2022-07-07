@@ -1,4 +1,8 @@
-<h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Fabrizio Cominetti</b></i>'s GitHub Profile</h2>
+
+[![Header](https://github.com/giocoal/giocoal/blob/main/readme_header.jpg "Header")](https://martinheinz.dev/)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h2 align="center">Hi Everyone! 👋 Welcome to <i><b>Giorgio Carbone</b></i>'s GitHub Profile</h2>
 
 - 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
 <!--
