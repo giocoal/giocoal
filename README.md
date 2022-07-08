@@ -78,9 +78,9 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/giocoal
+[2]: https://github.com/giocoal
+[3]: https://www.linkedin.com/in/giorgiocarbone/
 
 
 <!-- Resources -->
