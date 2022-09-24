@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/giocoal/giocoal/blob/main/readme_header.jpg" width="150">
+  <img src="https://raw.githubusercontent.com/giocoal/minimal-portfolio/main/images/LogoSecondaVersionecut.png" width="150">
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
