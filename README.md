@@ -9,9 +9,10 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 
 <h3 align="center">My Portfolio Website</h3>
 <div align="center">
-<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png" alt="giorgiocarbone" height="40" width="40" /></a>
+<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/giocoal/giocoal/main/primaversione1.png" alt="giorgiocarbone" height="40" width="40" /></a>
 </div>
 
+<!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="center">Connect with me</h3>
 <div align="center">
