@@ -28,8 +28,6 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Lib-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Lib-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Beautiful_Soup-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
