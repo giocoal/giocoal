@@ -44,7 +44,8 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 
 ![](https://img.shields.io/badge/DB-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a)
   
 ## &#x1f4c8; GitHub Stats
