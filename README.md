@@ -33,7 +33,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-scikit\-learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Beautiful_Soup-informational?style=flat&logo=beautifulsoup&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
