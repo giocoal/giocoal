@@ -92,7 +92,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=giocoal)
+![](https://komarev.com/ghpvc/?username=giocoal&style=for-the-badge)
 
 <!---
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
