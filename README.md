@@ -69,7 +69,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- ![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a) --> 
 <!-- ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a) -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Knime](https://img.shields.io/badge/KNIME?style=flat&color=2bbc8a)
+![Knime](https://img.shields.io/badge/KNIME-informational?style=for-the-badge&color=2bbc8a)
 
 ##### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
