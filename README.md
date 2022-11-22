@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/giocoal/minimal-portfolio/main/images/LogoSecondaVersioneNoPortfolioCUT.png" width="400">
-  ![](https://komarev.com/ghpvc/?username=giocoal)
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
@@ -31,6 +30,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) -->
+![](https://komarev.com/ghpvc/?username=giocoal)
 <!-- ##### 📋 Languages -->
 <!-- usa style=flat-square per ingrandire -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
