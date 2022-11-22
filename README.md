@@ -54,7 +54,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-informational?style=for-the-badge&logo=beautifulsoup&logoColor=white&color=2bbc8a) -->
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-informational?style=for-the-badge&logo=beautifulsoup&logoColor=white&color=2bbc8a)
 
 
 
