@@ -38,7 +38,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-##### Python Libraries
+##### 🖥️ Libraries
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a) -->
@@ -69,14 +69,21 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- ![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a) --> 
 <!-- ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a) -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Knime](https://img.shields.io/badge/KNIME-informational?style=for-the-badge&color=2bbc8a)
+![Knime](https://img.shields.io/badge/KNIME?style=flat&color=2bbc8a)
 
+##### 🕓 Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+##### 💾 Databases
 <!-- ![](https://img.shields.io/badge/DB-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a) -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a) -->
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
   
 ## &#x1f4c8; GitHub Stats
 
