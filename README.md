@@ -38,9 +38,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
-
-
+##### Python Libraries
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a) -->
@@ -49,6 +47,16 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Lib-Beautiful_Soup-informational?style=flat&logo=beautifulsoup&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Lib-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a) -->
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-informational?style=for-the-badge&logo=beautifulsoup&logoColor=white&color=2bbc8a) -->
+
+
 
 <!-- ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a) -->
