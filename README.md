@@ -30,7 +30,6 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) -->
-![](https://komarev.com/ghpvc/?username=giocoal)
 <!-- ##### 📋 Languages -->
 <!-- usa style=flat-square per ingrandire -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -92,6 +91,8 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=giocoal)
 
 <!---
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
