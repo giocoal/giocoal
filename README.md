@@ -66,8 +66,10 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a) --> 
+<!-- ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a) -->
+![Tableau](https://img.shields.io/badge/Tableau?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 <!-- ![](https://img.shields.io/badge/DB-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a) -->
