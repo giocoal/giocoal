@@ -56,11 +56,15 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-informational?style=for-the-badge&logo=beautifulsoup&logoColor=white&color=2bbc8a)
 
-
-
+##### 💻 IDEs/Editors
 <!-- ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Notebook-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a) -->
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 <!-- ![](https://img.shields.io/badge/Tools-KNIME-informational?style=flat&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a) -->
