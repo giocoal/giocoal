@@ -17,6 +17,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <h3 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="30" width="40" /></a> 
+<a href="mailto:carbone.giorgio4@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
 <a href="https://github.com/giocoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="giorgiocarbone" height="30" width="40" /></a>
 <a href="https://medium.com/@giorgiocarbone" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@giorgiocarbone" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/giorgiocarbone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giorgiocarbone" height="30" width="40" /></a>
