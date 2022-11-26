@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giocoal/minimal-portfolio/main/images/LogoSecondaVersioneNoPortfolioCUT.png" width="300">
+  <img src="https://github.com/giocoal/giocoal/blob/main/LogoSecondaVersioneNoPortfolioRounded.png?raw=true" width="300">
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
@@ -9,7 +9,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 
 <h3 align="center">My Portfolio Website</h3>
 <div align="center">
-<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/giocoal/giocoal/main/primaversione1.png" alt="giorgiocarbone" height="40" width="40" /></a>
+<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://github.com/giocoal/giocoal/blob/main/primaversione1Rounded.png?raw=true" alt="giorgiocarbone" height="40" width="40" /></a>
 </div>
 
 <!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
