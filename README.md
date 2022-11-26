@@ -16,12 +16,12 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <div align="center">
-| <a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="30" width="40" /></a> | 
-<a href="https://github.com/giocoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="giorgiocarbone" height="30" width="40" /></a> |
-<a href="https://www.kaggle.com/giorgiocarbone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giorgiocarbone" height="30" width="40" /></a> |
-<a href="https://public.tableau.com/app/profile/giorgio.carbone3907" target="blank"><img align="center" src="https://simpleicons.org/icons/tableau.svg" alt="giorgiocarbone" height="30" width="40" /></a> |
-<a href="https://medium.com/@giorgiocarbone" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@giorgiocarbone" height="40" width="40" /></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+<a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="30" width="40" /></a> 
+<a href="https://github.com/giocoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="giorgiocarbone" height="30" width="40" /></a>
+<a href="https://medium.com/@giorgiocarbone" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@giorgiocarbone" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/giorgiocarbone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giorgiocarbone" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/giorgio.carbone3907" target="blank"><img align="center" src="https://img.icons8.com/color/512/tableau-software.png" alt="giorgiocarbone" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12193930/giorgio-carbone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="40" /></a>
 </div>
 </div>
 
