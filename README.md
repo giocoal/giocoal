@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/giocoal/giocoal/blob/main/LogoSecondaVersioneNoPortfolioRounded.png?raw=true" width="300">
+  <a href='https://linktr.ee/giorgiocarbone'><img src="https://github.com/giocoal/giocoal/blob/main/LogoSecondaVersioneNoPortfolioRounded.png?raw=true" width="300"></a>
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
