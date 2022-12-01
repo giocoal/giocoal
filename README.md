@@ -130,7 +130,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 [3]: https://www.linkedin.com/in/giorgiocarbone/
 
 
-<!-- Resources -->
+<!-- Resources --> 
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
