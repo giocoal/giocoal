@@ -2,7 +2,7 @@
   <a href='https://linktr.ee/giorgiocarbone'><img src="https://github.com/giocoal/giocoal/blob/main/LogoSecondaVersioneNoPortfolioRounded.png?raw=true" width="300"></a>
 </p>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in Data Science** at **University of Milano-Bicocca**. I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 
@@ -27,7 +27,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 </div>
 </div>
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) -->
@@ -86,7 +86,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 <!-- ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a) -->
 🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
   
-# &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
@@ -106,7 +106,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 </a>
 --->
 
-# ✍️ Medium articles
+## ✍️ Medium articles
 ![Giorgio's blog](https://github-read-medium.vercel.app/latest?username=giorgiocarbone&limit=6&theme=graywhite)
 
 <!-- links to social media icons -->
