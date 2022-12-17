@@ -89,10 +89,10 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/giocoal/giocoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&theme=merko&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/giocoal/giocoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=giocoal&style=for-the-badge)
