@@ -99,7 +99,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/giocoal/giocoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=EC7700&icon_color=EC7700&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
