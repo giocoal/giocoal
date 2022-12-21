@@ -105,7 +105,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EC7700&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=giocoal&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=for-the-badge&color=EC7700" alt="giocoalview" />
 
 <!---
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
