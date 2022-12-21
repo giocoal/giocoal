@@ -4,11 +4,13 @@
 </p>
 -->
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-  
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<p align="left">
+<a href="https://github.com/giocoal">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=EC7700&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%F0%9F%93%88+%7C+B.Sc.+Chemistry+%F0%9F%A7%AA;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </a>
+<br/>
+
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 My name is **Giorgio Carbone** 
 I'm currently pursing a **Master's Degree in Data Science** at **University of Milano-Bicocca**. 
@@ -97,7 +99,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/giocoal/giocoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=EC7700&icon_color=EC7700&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
@@ -130,9 +132,11 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
+<!--
 Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
+-->
 
 <!-- links to your social media accounts -->
 
