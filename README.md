@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/giocoal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77D00&multiline=true&width=435&lines=Giorgio+Carbone;M.Sc.+Data+Science+%F0%9F%93%88+%7C+B.Sc.+Chemistry+%F0%9F%A7%AA;AI+%7C+Computer+Vision+%7C+NLP+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=F77D00&multiline=true&width=500&lines=Giorgio+Carbone;M.Sc.+Data+Science+%F0%9F%93%88+%7C+B.Sc.+Chemistry+%F0%9F%A7%AA;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </a>
 <br/>
 
