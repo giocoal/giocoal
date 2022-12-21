@@ -96,7 +96,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 <!-- ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a) -->
 🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
   
-## &#x1f4c8; GitHub Stats  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" />
+## &#x1f4c8; GitHub Stats    <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" />
 
 
 <a href="https://github.com/giocoal/giocoal">
