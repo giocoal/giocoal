@@ -95,7 +95,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
   
 <summary> ## &#x1f4c8; GitHub Stats </summary>
-
+<br>
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
@@ -104,6 +104,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 </a>
 
 ![](https://komarev.com/ghpvc/?username=giocoal&style=for-the-badge)
+<br>
 
 <!---
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
