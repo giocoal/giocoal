@@ -4,11 +4,6 @@
 </p>
 -->
 
-<p align="left">
-<a href="https://github.com/giocoal">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=EC7700&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%F0%9F%93%88+%7C+B.Sc.+Chemistry+%F0%9F%A7%AA;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
-</a>
-
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
   
 <a href="https://github.com/drkostas">
@@ -99,7 +94,7 @@ I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 <!-- ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a) -->
 🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
   
-## &#x1f4c8; GitHub Stats
+<summary> ## &#x1f4c8; GitHub Stats </summary>
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
