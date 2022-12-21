@@ -17,8 +17,8 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 
 <h3 align="center">My Portfolio Website and My Resume</h3>
 <div align="center">
-<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://github.com/giocoal/giocoal/blob/main/primaversione1Rounded.png?raw=true" alt="giorgiocarbonePortfolio" height="40" width="40" /></a>
-<a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="giorgiocarboneCV" height="40" width="40" /></a>
+<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://github.com/giocoal/giocoal/blob/main/primaversione1Rounded.png?raw=true" alt="giorgiocarbonePortfolio" height="30" width="30" /></a>
+<a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="giorgiocarboneCV" height="30" width="30" /></a>
 </div>
 
 <!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
