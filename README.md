@@ -23,7 +23,7 @@ My name is **Giorgio Carbone** and I'm currently pursing a **Master's Degree in 
 
 <!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h3 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
+<h3 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="30" width="40" /></a> 
 <a href="mailto:carbone.giorgio4@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
