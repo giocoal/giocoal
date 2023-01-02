@@ -12,7 +12,7 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
-- 📖 Pursuing a **Master's Degree in Data Science** at **University of Milano-Bicocca**. 
+- 📖 Pursuing a **Master's Degree** in **Data Science** at @ [!University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
 - 📍 I'm from Italy, living near Milan. 
 
 
