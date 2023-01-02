@@ -38,8 +38,9 @@
 <a href="https://stackoverflow.com/users/12193930/giorgio-carbone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="30" /></a>
 </div>
 </div>
-  
-## &#x1f4c8; GitHub Stats  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" />
+
+<details> 
+<summary> &#x1f4c8; Stats  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" /> </summary>
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
