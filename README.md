@@ -12,7 +12,7 @@
   
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
   
-<img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=36BCF7FF" alt="giocoalview" />
+<img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" />
   
 * 📖 Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
 * 📍 I'm from Italy, living near Milan. 
