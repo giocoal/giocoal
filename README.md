@@ -192,7 +192,7 @@ Currently Coding & Listening to:
 </details>
 </br>
 <div align="center">
-<img align=top src="https://media1.giphy.com/media/3osxYzTUrYDHuU4lfG/giphy.gif?cid=790b7611e2348aa43e6a080f6d1f92ee5416741229899f9a&rid=giphy.gif&ct=g">
+<img align=top src="https://media1.giphy.com/media/3osxYzTUrYDHuU4lfG/giphy.gif?cid=790b7611e2348aa43e6a080f6d1f92ee5416741229899f9a&rid=giphy.gif&ct=g" height="192px">
 </div> 
   
 <!-- Resources --> 
