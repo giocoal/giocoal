@@ -8,7 +8,9 @@
 <a href="https://github.com/giocoal">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=False&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </a>
+  
 <img align="right" width="200" src="./assets/developer.gif" />
+  
 <!-- <br/> -->
   
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
