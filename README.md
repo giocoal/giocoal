@@ -1,20 +1,36 @@
-<!--
-<p align="center">
-  <a href='https://linktr.ee/giorgiocarbone'><img src="https://github.com/giocoal/giocoal/blob/main/LogoSecondaVersioneNoPortfolioRounded.png?raw=true" width="300"></a>
-</p>
--->
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<!--
 
 <p align="left">
   <img align=top width="200" src="developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
  <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
 </p>
 
+<div align="left">
+  <img align=top width="200" src="developer1.gif" />  
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+  <br /> 
+  <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
+</div>
+
+--> 
+
+<table class="images" style="border:0px solid white; width:100%;>
+  <tr style="border: 0px;">
+    <td style="border:0px; width:33.33%">
+      <img width="200" src="developer1.gif" alt="Immagine 1">
+    </td>
+    <td style="border:0px; width:33.33%">
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Immagine 2">
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Immagine 3">
+    </td>
+  </tr>
+</table>
 
 
-##
 
 <!-- ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
   
