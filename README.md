@@ -81,7 +81,7 @@ Currently Coding & Listening to:
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <details> 
-<summary> 🔧 **Technologies & Tools** </summary> 
+<summary> 🔧 Technologies & Tools </summary> 
   
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) -->
