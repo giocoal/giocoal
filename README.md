@@ -13,7 +13,7 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 - 📖 Pursuing a **Master's Degree in Data Science** at **University of Milano-Bicocca**. 
-- 🇮🇹 I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
+- :it: I'm from Italy, living near Milan. You can find me on [![LinkedIn][3.2]][3].
 
 
 <h3 align="center">My Portfolio Website and My Resume</h3>
