@@ -40,7 +40,7 @@
 </div>
 
 <details> 
-<summary> &#x1f4c8; **Stats**  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" /> </summary>
+<summary> &#x1f4c8; Stats  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" /> </summary>
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
@@ -48,6 +48,10 @@
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EC7700&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
 </a>
+  
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
 
 <!---
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
@@ -58,6 +62,8 @@
 </a>
 --->
 
+</details>
+  
 ## ✍️ Medium articles
 ![Giorgio's blog](https://github-read-medium.vercel.app/latest?username=giorgiocarbone&limit=6&theme=graywhite)
 
@@ -134,17 +140,8 @@
 <!-- ##### 🌐 Web Developement -->
 <!-- ![](https://img.shields.io/badge/Static_Site_Generator-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a) -->
 🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
-<!--
-Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
--->
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/giocoal
-[2]: https://github.com/giocoal
-[3]: https://www.linkedin.com/in/giorgiocarbone/
+</details>
 
 
 <!-- Resources --> 
