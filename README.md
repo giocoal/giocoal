@@ -4,23 +4,21 @@
 </p>
 -->
 
-<p align="left">
+<img align="right" width="200" src="developer.gif" />
+<p align="right">
 <a href="https://github.com/giocoal">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </a>
   
-<!-- <br/> -->
-  
+<br />
+
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" />
   
-<img align="right" width="200" src="developer.gif" />
-  
 * 📖 Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
 * 📍 I'm from Italy, living near Milan. 
 * 💡 Open to collaborating on projects and innovative ideas. 
-
 
 <h4 align="center">My Portfolio Website and My Resume</h3>
 <div align="center">
