@@ -66,6 +66,7 @@ Currently Coding & Listening to:
   
 <details open> 
 <summary> ✍️ Medium articles </summary> 
+  
 ![Giorgio's blog](https://github-read-medium.vercel.app/latest?username=giorgiocarbone&limit=6&theme=graywhite)
 
 <!-- links to social media icons -->
