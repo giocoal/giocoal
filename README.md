@@ -60,6 +60,11 @@
 
 <br/> 
 
+<details open> 
+<summary><b>:octocat:	&nbsp;&nbsp;Github Stats</b></summary>
+
+<br/> 
+
 <div align="center">
 <a align=top href="https://github.com/giocoal">
     <img align=top src="https://github-stats-alpha.vercel.app/api?username=giocoal&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
@@ -68,21 +73,29 @@
     <img align=top alt="giocoal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
 </div>
 
-
-
-<a href="https://github.com/giocoal/giocoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/giocoal/giocoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EC7700&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
-</a>
+</details> 
 
 <details> 
-<summary><b>&#x1f4c8;&nbsp;&nbsp;Stats</b></summary>
-  
-Currently Coding & Listening to:
+<summary><b>📈	&nbsp;&nbsp;Activity Stats</b></summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
+<br/> 
+
+<div align="center">
+<a align=top href="https://github.com/giocoal">
+    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giocoal&theme=github_dark" height="192px">
+</a>
+<br>
+<a align=top href="https://github.com/giocoal">
+    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giocoal&theme=github_dark" height="192px"/></a>  
+<a align=top href="https://github.com/giocoal">
+    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giocoal&theme=github_dark" height="192px"/></a>
+</br>
+Currently Coding & Listening to:
+                                
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=false&background_color=22272e&bar_color=37bbf5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
+</div>                             
+
+</details>                                
 
 <!---
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
