@@ -8,7 +8,7 @@
 
 <p align="left">
   <img align=top width="200" src="developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
  <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
 </p>
 
