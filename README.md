@@ -20,12 +20,12 @@
 <table class="images" style="border:0px solid white; width:100%;>
   <tr style="border: 0px;">
     <td style="border:0px; width:33.33%">
-      <img width="200" src="developer1.gif" alt="Immagine 1">
+      <img width="200" src="developer1.gif" alt="developergif">
     </td>
     <td style="border:0px; width:33.33%">
-      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Immagine 2">
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing Animation">
       <br>
-      <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Immagine 3">
+      <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter">
     </td>
   </tr>
 </table>
@@ -33,10 +33,11 @@
 
 
 <!-- ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
-  
+            
 * 📖 Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
 * 📍 I'm from Italy, living near Milan. 
 * 💡 Open to collaborating on projects and innovative ideas. 
+                 
 
 <h4 align="center">My Portfolio Website and My Resume</h3>
 <div align="center">
@@ -56,10 +57,18 @@
 <a href="https://public.tableau.com/app/profile/giorgio.carbone3907" target="blank"><img align="center" src="https://img.icons8.com/color/512/tableau-software.png" alt="giorgiocarbone" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12193930/giorgio-carbone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="30" /></a>
 </div>
+
+<br/> 
+
+<div align="center">
+<a align=top href="https://github.com/giocoal">
+    <img align=top src="https://github-stats-alpha.vercel.app/api?username=giocoal&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
+</a>
+<a align=top href="https://github.com/giocoal">
+    <img align=top alt="giocoal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
 </div>
 
-<details> 
-<summary><b>&#x1f4c8;&nbsp;&nbsp;Stats</b></summary>
+
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
@@ -67,6 +76,9 @@
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giocoal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EC7700&bg_color=1d1f21" alt="Giorgio's GitHub Stats" />
 </a>
+
+<details> 
+<summary><b>&#x1f4c8;&nbsp;&nbsp;Stats</b></summary>
   
 Currently Coding & Listening to:
 
