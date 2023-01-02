@@ -76,7 +76,7 @@
 </details> 
 
 <details> 
-<summary><b>📈	&nbsp;&nbsp;Activity Stats</b></summary>
+<summary><b>📈&nbsp;&nbsp;Activity Stats</b></summary>
 
 <br/> 
 
