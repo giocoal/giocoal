@@ -40,7 +40,7 @@
 </div>
 
 <details> 
-<summary> &#x1f4c8; Stats </summary>
+<summary><b>&#x1f4c8;&nbsp;&nbsp;Stats</b></summary>
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
