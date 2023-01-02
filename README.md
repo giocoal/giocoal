@@ -65,7 +65,7 @@ Currently Coding & Listening to:
 </details>
   
 <details open> 
-<summary> ✍️ Medium articles </summary> 
+<summary><b>✍️&nbsp;&nbsp;Medium articles</b></summary> 
   
 ![Giorgio's blog](https://github-read-medium.vercel.app/latest?username=giorgiocarbone&limit=6&theme=graywhite)
 
@@ -85,7 +85,7 @@ Currently Coding & Listening to:
 </details>  
   
 <details>  
-<summary> 🔧 Technologies & Tools </summary> 
+<summary><b>🔧&nbsp;&nbsp;Technologies & Tools</b></summary> 
   
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) -->
