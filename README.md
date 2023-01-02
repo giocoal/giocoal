@@ -10,6 +10,8 @@
 </a>
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" />
+  
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 * 📖 Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
