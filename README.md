@@ -190,8 +190,11 @@ Currently Coding & Listening to:
 🌐 **Web Developement**  ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
 
 </details>
-
-
+</br>
+<div align="center">
+<img align=top src="https://media1.giphy.com/media/3osxYzTUrYDHuU4lfG/giphy.gif?cid=790b7611e2348aa43e6a080f6d1f92ee5416741229899f9a&rid=giphy.gif&ct=g">
+</div> 
+  
 <!-- Resources --> 
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
