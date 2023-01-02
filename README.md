@@ -40,7 +40,7 @@
 </div>
 
 <details> 
-<summary> &#x1f4c8; Stats  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" /> </summary>
+<summary> &#x1f4c8; **Stats**  <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=EC7700" alt="giocoalview" /> </summary>
 
 <a href="https://github.com/giocoal/giocoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoal&hide=java,html,scss,javascript,tex,ruby,shell&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
@@ -74,7 +74,8 @@
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-## 🔧 Technologies & Tools
+<details> 
+<summary> 🔧 **Technologies & Tools** </summary> 
 <!-- ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) -->
