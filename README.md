@@ -90,7 +90,7 @@
 <a align=top href="https://github.com/giocoal">
     <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giocoal&theme=github_dark" height="192px"/></a>
 </br>
-Currently Coding & Listening to:
+**Currently Coding & Listening to:**
                                 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=false&background_color=22272e&bar_color=37bbf5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
 </div>                             
