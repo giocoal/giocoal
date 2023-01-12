@@ -194,7 +194,7 @@
 <div align="center">
 <img align=top src="./Images/tumblr_11d365a49f6f66dee03353309bf82414_8f4b05ff_540.gif" height="192px">
 </br>
-*"Blockquotes are very handy in email to emulate reply text."*
+**"Blockquotes are very handy in email to emulate reply text."**
 </div> 
   
 <!-- Resources --> 
