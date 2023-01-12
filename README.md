@@ -192,7 +192,8 @@
 </details>
 </br>
 <div align="center">
-<img align=top src="https://media1.giphy.com/media/3osxYzTUrYDHuU4lfG/giphy.gif?cid=790b7611e2348aa43e6a080f6d1f92ee5416741229899f9a&rid=giphy.gif&ct=g" height="192px">
+<img align=top src="./Images/tumblr_11d365a49f6f66dee03353309bf82414_8f4b05ff_540.gif" height="192px">
+> Blockquotes are very handy in email to emulate reply text.
 </div> 
   
 <!-- Resources --> 
