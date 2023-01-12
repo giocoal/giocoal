@@ -3,13 +3,13 @@
 <!--
 
 <p align="left">
-  <img align=top width="220" src="developer1.gif" />  
+  <img align=top width="220" src="./Images/developer1.gif" />  
   <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
  <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
 </p>
 
 <div align="left">
-  <img align=top width="200" src="developer1.gif" />  
+  <img align=top width="200" src="./Images/developer1.gif" />  
   <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
   <br /> 
   <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
@@ -20,7 +20,7 @@
 <table class="images" style="border:0px solid white; width:100%;>
   <tr style="border: 0px;">
     <td style="border:0px; width:33.33%">
-      <img width="200" src="developer1.gif" alt="developergif">
+      <img width="200" src="./Images/developer1.gif" alt="developergif">
     </td>
     <td style="border:0px; width:33.33%">
       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing Animation">
@@ -41,7 +41,7 @@
 
 <h4 align="center">My Portfolio Website and My Resume</h3>
 <div align="center">
-<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="https://github.com/giocoal/giocoal/blob/main/primaversione1Rounded.png?raw=true" alt="giorgiocarbonePortfolio" height="30" width="30" /></a>
+<a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="./Images/primaversione1Rounded.png" alt="giorgiocarbonePortfolio" height="30" width="30" /></a>
 <a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="giorgiocarboneCV" height="30" width="30" /></a>
 </div>
 
