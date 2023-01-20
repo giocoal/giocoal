@@ -58,7 +58,7 @@
 <a href="https://stackoverflow.com/users/12193930/giorgio-carbone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="30" /></a>
 </div>
 
-<h4 align="center">Languages<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
+<h4 align="center">Languages &nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
 <div align="center">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r"></code>
