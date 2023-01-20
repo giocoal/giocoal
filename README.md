@@ -39,7 +39,7 @@
 * 💡 Open to collaborating on projects and innovative ideas. 
                  
 
-<h4 align="center">My Portfolio Website and My Resume</h3>
+<h4 align="center">My Portfolio Website and My Resume</h4>
 <div align="center">
 <a href="https://giocoal.github.io/minimal-portfolio/" target="blank"><img align="center" src="./Images/primaversione1Rounded.png" alt="giorgiocarbonePortfolio" height="30" width="30" /></a>
 <a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="giorgiocarboneCV" height="30" width="30" /></a>
@@ -47,7 +47,7 @@
 
 <!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h3>
+<h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
 <div align="center">
 <a href="https://www.linkedin.com/in/giorgio-carbone-63154219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="20" width="20,7" /></a> 
 <a href="mailto:carbone.giorgio4@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
@@ -57,6 +57,15 @@
 <a href="https://public.tableau.com/app/profile/giorgio.carbone3907" target="blank"><img align="center" src="https://img.icons8.com/color/512/tableau-software.png" alt="giorgiocarbone" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12193930/giorgio-carbone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="30" /></a>
 </div>
+
+<h4 align="center">Languages<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>             <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash">     
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
 
 <br/> 
 
