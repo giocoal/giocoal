@@ -28,7 +28,7 @@
   </div>
 </div> -->
 
-<p><img align="left" width="30%" src="./Images/developer1.gif" alt="developergif"></p>
+<p><img align="left" width="20%" src="./Images/developer1.gif" alt="developergif"></p>
 
 
 <div style="display:flex; flex-direction:column; margin-left:20px;">
