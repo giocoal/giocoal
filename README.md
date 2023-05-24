@@ -31,7 +31,7 @@
 <div style="display:flex; flex-direction:row; align-items:center;">
   <p><img align="left" width="25%" src="./Images/developer1.gif" alt="developergif" style="margin-right: 20px;"></p>
   <div style="display:flex; flex-direction:column; margin-left:20px;margin-bottom: 100px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&size=20&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=90&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+Generative+Models" alt="Typing Animation" hspace="10">
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&size=20&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=400&height=90&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+Generative+Models" alt="Typing Animation" hspace="10">
     <div style="display:flex; align-items:center;">
       <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;" hspace="10" vspace="10">
     </div>
