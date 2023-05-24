@@ -31,7 +31,7 @@
 <p><img align="left" width="25%" src="./Images/developer1.gif" alt="developergif" style="margin-right: 20px;"></p>
 
 
-<div style="display:flex; flex-direction:column; margin-left:20px;margin-bottom: 100px;">
+<div style="display:flex; flex-direction:column; margin-left:20px;margin-bottom: 100px;" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing Animation">
   <div style="display:flex; align-items:center;">
     <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;">
