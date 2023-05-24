@@ -38,8 +38,7 @@
   </div>
 </div>
 
-<!-- <br />
-<br /> -->
+<br clear="left"/>
 
 ---
 
