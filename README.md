@@ -28,6 +28,17 @@
   </div>
 </div>
 
+<table>
+  <tr>
+    <td><img width="200" src="./Images/developer1.gif" alt="developergif"></td>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing Animation">
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;">
+    </td>
+  </tr>
+</table>
+
 ---
 
 <!-- ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
