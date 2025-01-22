@@ -46,9 +46,10 @@
 
 <div align="left" style="margin-top:20px;">
 
+* 🎓⚛️🤖 Currently pursuing a **Ph.D.** Programme in **Generative AI for *De Novo* Drug Design** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science) and [ITALFARMACO SpA](https://www.italfarmaco.com/).
 * 📖 **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
 * 📖 **Bachelor's Degree** in **Chemical Sciences and Technologies** @ [University of Milano-Bicocca](https://en.unimib.it/undergraduate/chemical-sciences-technologies).
-* 📍 I'm from Italy, living near Milan. 
+* 📍 I'm based in Milan (Italy). 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
 </div>
